@@ -6,7 +6,7 @@ Nous avons créer notre front-end avec React CRUD et tester notre interface avec
 ## 2) Back-End temporaire et test de l'app
 Pendant que l'équipe chargé du back-end finis sont travail nous avons utiliser un Mock-Server local pour tester notre liaison front-end/back-end.
 ## 3) Implémentation du Back-End final et configuration du CORS
-L'équipe Back-End a livrer sont travail, nous avons donc plus qu'a configurer CORS et a lancer nos 2 partie.
+L'équipe Back-End a livré sont travail, nous avons donc plus qu'a configurer CORS et a lancer nos 2 partie.
 
 # Getting Started with Create React App
 
