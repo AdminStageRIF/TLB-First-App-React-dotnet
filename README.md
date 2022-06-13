@@ -1,13 +1,13 @@
 # Création d'une application FullStack avec React CRUD et API/ASP.NET
 
-Outils et Version:
-Node.js v16.15.1 ;
-.net v6.0 ;
-Cmder v1.3.19
+## Outils et Version:
+#### Node.js v16.15.1
+#### .net v6.0
+#### Cmder v1.3.19
 
 
 ## Etape de création de l'application
-### 1) Création de l'interface React avec React CRUD (JS/React)
+### 1) Création de l'interface React avec Create React App (JS/React)
 Nous avons créer notre front-end avec React CRUD et tester notre interface avec un fichier de donnée static
 ### 2) Back-End temporaire et test de l'app
 Pendant que l'équipe chargé du back-end finis sont travail nous avons utiliser un Mock-Server local pour tester notre liaison front-end/back-end.
@@ -23,9 +23,6 @@ dotnet run
 ```sh
 npm start
 ```
-# Démarrage avec Create React App
-
-Ce projet a été démarré avec [Create React App] (https://github.com/facebook/create-react-app).
 
 ## Scripts disponibles
 
