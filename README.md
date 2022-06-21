@@ -1,3 +1,4 @@
+[![IT_AREA_logo_BMM_PNGG](https://user-images.githubusercontent.com/107033711/174778898-9c44aaee-eb70-4d38-b4b0-93c851e09c82.png)](https://sites.google.com/view/it-area/accueil)
 # Création d'une application FullStack avec React CRUD et API/ASP.NET
 
 Ceci est le depôt d'une application FullStack représentant un menu de pizzeria simple et basique.
@@ -6,10 +7,10 @@ Cette application a été réalisé par Thomas Le Blan, étudiant en BTS SIO au 
 Les outils utiliser pour créer cette application sont les suivant:
 
 ## Outils
-#### Node.js v16.15.1
-#### .net v6.0
-#### Cmder v1.3.19
-#### Reactjs 18.1.0
+#### _Node.js v16.15.1_
+#### _.net v6.0_
+#### _Cmder v1.3.19_
+#### _Reactjs 18.1.0_
 
 
 ## Etape de création de l'application
