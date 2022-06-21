@@ -1,17 +1,23 @@
 # Création d'une application FullStack avec React CRUD et API/ASP.NET
 
-## Outils et Version:
+Ceci est le depôt d'une application FullStack représentant un menu de pizzeria simple et basique.
+Cette application a été réalisé par Thomas Le Blan, étudiant en BTS SIO au lycée Saint Gabriel et en stage au RIF (Rassemblement des ingénieur francophones)
+
+Les outils utiliser pour créer cette application sont les suivant:
+
+## Outils
 #### Node.js v16.15.1
 #### .net v6.0
 #### Cmder v1.3.19
+#### Reactjs 18.1.0
 
 
 ## Etape de création de l'application
-### 1) Création de l'interface React avec Create React App (JS/React)
+### 1) Création de l'interface React avec Create React App (React/JS)
 Nous avons créer notre front-end avec React CRUD et tester notre interface avec un fichier de donnée static
-### 2) Back-End temporaire et test de l'app
+### 2) Back-End temporaire et test de l'app (MockServer)
 Pendant que l'équipe chargé du back-end finis sont travail nous avons utiliser un Mock-Server local pour tester notre liaison front-end/back-end.
-### 3) Implémentation du Back-End final et configuration du CORS
+### 3) Implémentation du Back-End final et configuration du CORS (.net/C#)
 L'équipe Back-End a livré sont travail, nous avons donc plus qu'a configurer CORS et a lancer les 2 partie.
 
 # Lancement de l'application:
