@@ -2,7 +2,7 @@
 # Création d'une application FullStack avec React CRUD et API/ASP.NET
 
 Ceci est une application FullStack qui créer et affiche un menu de pizzeria simple et basique.
-Cette application a été réalisé par Thomas Le Blan, étudiant en BTS SIO au lycée Saint Gabriel et en stage au RIF (Rassemblement des ingénieur francophones)
+Cette application a été réalisé par les stagiaires du RIF (Rassemblement des ingénieur francophones) avec partir du tutoriel DocMicrosoft suivant : [Tuto-Build-Web-Api](https://docs.microsoft.com/en-us/learn/modules/build-web-api-minimal-spa/)
 
 Les outils utiliser pour créer cette application sont les suivant:
 
